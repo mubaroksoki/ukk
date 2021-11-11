@@ -1,0 +1,11 @@
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\bin\Debug\pakabeta.accdb
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\bin\Debug\BetaMartsiSyauqi.exe.config
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\bin\Debug\BetaMartsiSyauqi.exe
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\bin\Debug\BetaMartsiSyauqi.pdb
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\obj\Debug\BetaMartsiSyauqi.csproj.AssemblyReference.cache
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\obj\Debug\BetaMartsiSyauqi.Form1.resources
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\obj\Debug\BetaMartsiSyauqi.Properties.Resources.resources
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\obj\Debug\BetaMartsiSyauqi.csproj.GenerateResource.cache
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\obj\Debug\BetaMartsiSyauqi.csproj.CoreCompileInputs.cache
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\obj\Debug\BetaMartsiSyauqi.exe
+D:\c# project\BetaMartsiSyauqi\BetaMartsiSyauqi\obj\Debug\BetaMartsiSyauqi.pdb
